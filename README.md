@@ -1,2 +1,2 @@
 # rust-deltatime
-A convinient deltatime lib for rust
+A convenient deltatime lib for rust
